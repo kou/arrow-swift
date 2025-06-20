@@ -31,3 +31,6 @@ xcuserdata/
 /dev/release/apache-rat-*.jar
 /dev/release/filtered_rat.txt
 /dev/release/rat.xml
+
+# Release
+/apache-arrow-swift-*.tar.gz*
